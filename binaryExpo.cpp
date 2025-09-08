@@ -5,6 +5,7 @@ const int Mod = 1e9 + 7;
 const int N = 1e6 + 2;
 int idx[N];
 //for git practice
+//code update
 int power(int a, int b)
 {
 	int res = 1;
